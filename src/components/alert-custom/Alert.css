@@ -1,0 +1,10 @@
+.alert-custom{
+    position: fixed;
+    width: fit-content;
+    top: 15%;
+    right: 10px;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

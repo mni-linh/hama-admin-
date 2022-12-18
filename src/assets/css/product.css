@@ -1,0 +1,35 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 10% 30%;
+  grid-gap: 10px;
+  background-color: transparent;
+  padding: 10px 5px;
+  justify-items: start;
+}
+
+.grid-container > th, .grid-container > td {
+  font-weight: bold;
+  background-color: transparent;
+  border: 1px solid transparent;
+  text-align: center;
+  margin: auto;
+  font-size: 17px;
+}
+
+.img-product {
+  margin-left: 30px;
+}
+
+td {
+  margin: auto 0;
+}
+
+span {
+  margin-left: 3px;
+}
+
+.loading-custom {
+  color: var(--txt-color);
+}
+
+

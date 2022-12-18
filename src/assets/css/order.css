@@ -1,0 +1,17 @@
+.grid-container-order{
+  display: grid;
+  grid-template-columns: 15% 15% 15% 15% 20% 20%;
+  grid-gap: 10px;
+  background-color: transparent;
+  padding: 5px;
+  margin: 20px 0px;
+  justify-items: start;
+}
+
+.grid-container-order>div{
+  font-weight: bold;
+  background-color: transparent;
+  border: 1px solid transparent;
+  text-align: center;
+  font-size: 17px;
+}

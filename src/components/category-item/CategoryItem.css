@@ -1,0 +1,34 @@
+.custom-card {
+  padding: 20px;
+  width: fit-content;
+}
+
+.custom-card .card-img {
+  width: 150px;
+  height: 230px;
+  object-fit: cover;
+  opacity: 0.8;
+}
+
+.custom-card .card-img-overlay:hover {
+  background-color: rgba(244, 244, 244, 0.5);
+  padding-top: 50%;
+  opacity: 1;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.addNew {
+  margin: auto 0;
+}
+
+.addNew .custom-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  cursor: pointer;
+}
+
+.addNew .card-img {
+  height: 30px;
+  width: 30px;
+  object-fit: cover;
+}

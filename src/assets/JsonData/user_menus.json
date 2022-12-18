@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "bx bx-user",
+        "content": "Thông tin cá nhân",
+        "route": "/profile"
+    },
+    {
+        "icon": "bx bx-log-in-circle bx-rotate-180",
+        "content": "Đăng ký",
+        "route": "./signup"
+    },
+    {
+        "icon": "bx bx-log-out-circle bx-rotate-180",
+        "content": "Đăng xuất",
+        "route": "/logout"
+    }
+]

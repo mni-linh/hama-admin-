@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nameCustomer": "abc",
+        "dateOrder": "123",
+        "statusOrder": "abx",
+        "phone": "123456789",
+        "address": "asdfghjkl"
+    },
+    {
+        "id": 2,
+        "nameCustomer": "abc",
+        "dateOrder": "123",
+        "statusOrder": "abx",
+        "phone": "123456789",
+        "address": "asdfghjkl"
+    },
+    {
+        "id": 3,
+        "nameCustomer": "abc",
+        "dateOrder": "123",
+        "statusOrder": "abx",
+        "phone": "123456789",
+        "address": "asdfghjkl"
+    }
+]
